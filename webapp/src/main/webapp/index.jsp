@@ -4,6 +4,9 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
+    <label for="FULL GOVERNMENT Name"><b>Enter Name</b></label>
+    <input type="text" placeholder="Social Security" name="Name" id="Name" required>
+    <br>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
