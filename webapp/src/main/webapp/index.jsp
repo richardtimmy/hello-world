@@ -2,12 +2,10 @@
   <div class="container">
     <h1>New user Registeration for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
-    <hr>
-     
-    <label for="FULL GOVERNMENT Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Social Security" name="Name" id="Name" required>
+    <hr> 
+
     <br>
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Full Birth Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
